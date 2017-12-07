@@ -1,0 +1,124 @@
+* {
+
+	font-family: 'Orbitron', sans-serif;
+}
+
+
+
+/*news*/
+div.news ul {
+	    list-style-type: none;
+		display: inline;
+	 
+}
+
+div.news li {
+		float: left;
+		display: inline;
+}
+/* galary*/
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+	
+background: gray;
+}
+
+div.gallery:hover {
+    border: 1px solid #777;
+}
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+	border: 4;
+	border-color: black;
+	
+}
+/* galary*/
+
+.center {
+	display: block;
+margin: 0 auto;
+}
+body {
+		background: U:\My Documents\Computing\Global Warming Site(bg1.jpg);
+		background-repeat: repeat;
+		background-size: cover;
+}
+
+.graybg {
+	background: Gray;
+	padding: 25px;
+}
+
+a {
+		text-align: left;
+		padding: 5px;
+	
+}
+
+p {
+	background: Gray;
+	padding: 20px;
+}
+img {
+    display: block;
+    margin: auto;
+    width: 50%;
+}
+
+
+.Padded {
+color: red;
+
+
+}
+img:hover {
+
+}
+
+h1 {
+	
+	color: Slate Gray;
+	padding: 20px;
+	text-align: Left;
+	background: Gray;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+	border: 2px solid Gray;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: Red;
+}
+
+html, body {
+  height: 100%;
+  margin: 0;
+}
